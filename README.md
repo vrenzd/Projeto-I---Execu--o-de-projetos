@@ -26,7 +26,3 @@ Este projeto foi desenvolvido como parte dos estudos acadêmicos na área de Int
 
 ## Contribuições 🤝
 Sinta-se à vontade para contribuir com melhorias e sugestões para o projeto!
-
----
-
-Caso queira adicionar detalhes específicos do seu projeto, como o problema que está resolvendo ou métricas de desempenho, posso ajudar a expandir esse README! 🚀
